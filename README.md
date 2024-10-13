@@ -5,10 +5,10 @@ Welcome to UCLAIS Machine Learning course! Over the next few weeks, we'll be div
 ## Team
 
 - [Sergi Kavtaradze](https://github.com/Sergikavtaradze) (Head of Tutorials)
-- [Levon Davtian](https://github.com/levon-d) (Head of Development)
 - Zachary Baker (ML Officer)
 - Paul Chaminieux (ML Officer)
 - Anna-Maria (ML Officer)
+- [Levon Davtian](https://github.com/levon-d) (Head of Development)
 
 ## Social media
 
