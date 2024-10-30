@@ -2,6 +2,8 @@
 
 Welcome to UCLAIS Machine Learning course! Over the next few weeks, we'll be diving into the fundamentals of machine learning, exploring its applications in various fields, and equipping you with the skills to build intelligent systems :)
 
+All the presentations and recordings can be found on this [link]()
+
 ## Team
 
 - [Sergi Kavtaradze](https://github.com/Sergikavtaradze) (Head of Tutorials)
